@@ -36,9 +36,7 @@
 ```pkg update && pkg upgrade```
    
 ```pkg install python -y ```
-        
-```pip install tabulate -y ```
-
+	
 ```git clone https://github.com/John-kener/Amazing-Buttons```
         
 ```cd Amazing-Buttons```
