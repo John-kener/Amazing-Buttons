@@ -37,7 +37,7 @@
    
 ```pkg install python -y ```
         
-```pkg intall tabulate -y ```
+```pip intall tabulate -y ```
 
 ```git clone https://github.com/John-kener/Amazing-Buttons```
         
