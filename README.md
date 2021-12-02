@@ -1,7 +1,5 @@
-# Amazing-Buttons
-Add Termux extra Buttons ( Coding Master Edition -  2nd Version of T-Buttons Tool )
 
-<h1><p align= "center">  RIP-THE-ZIP </p></h1>
+<h1><p align= "center">  Amazing-Buttons </p></h1>
 <h4><p align = "center">Tool By John Kener<p><h4>
 <div>  
 <p align= "center">
@@ -15,6 +13,10 @@ Add Termux extra Buttons ( Coding Master Edition -  2nd Version of T-Buttons Too
 </div>
 
 <hr />
+
+### >> DESCRIPTION :
+
+* Add Termux extra Buttons ( Coding Master Edition -  2nd Version of T-Buttons Tool )
 
 ### >> AVAILABLE ON :
 
@@ -41,40 +43,19 @@ Add Termux extra Buttons ( Coding Master Edition -  2nd Version of T-Buttons Too
         
 ```cd Amazing-Buttons```
    
-```python req.py```
+```python Req.py```
      
-```python Amazing-Buttons.py```
+```python Amazing-buttons.py```
               
+```After installation you can run this program with "buttons" command.```
 
 </div>
 	
 <hr />
 
-## [#] INSTRUCTIONS
-	
-(1) You must have your own password file for testing ,
-     the default password file is not recomended for your use.
-	    
-(2) Seek the core option will show you 
-      ,what is inside the achived zip file
-      
-(3) Use carefully and responsibly
-     
-     
-## [#] IMPORTANT
-	
-(1) Enter Correct Data to be a registered SLCW member.
-	    
-(2) Fake Data will Be captured and deleted.
-	
-(3) Don't use any VPN while using this 
-    tool due to vpns have been blocked in here ...
-	    
-(4) Fake and Wrong data senders will not be participants
-    in any SL CYBER WARRIORS TEAMS.
+## [#] 
 
-
-###### © 2021 SL CYBER WARRIORS ADMIN CREW 
+###### © 2021 JOHN KENER
 
 
 <hr />
