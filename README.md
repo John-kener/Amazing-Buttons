@@ -14,7 +14,7 @@
 
 <hr />
 
-### >> DESCRIPTION :
+### >> ABOUT :
 
 * Add Termux extra Buttons ( Coding Master Edition -  2nd Version of T-Buttons Tool )
 
@@ -53,7 +53,18 @@
 	
 <hr />
 
-## [#] 
+## [#] DESCRIPTION
+	
+(1) Add extra buttons to your termux ,it make your works very easy.
+
+(2) This program has given you 3 main catagories of button types,
+      They are normal  programming & Custom...And also you can reset
+      buttons to defult structure using 'default' option.
+      
+(3) So enjoy this program ,do not forget to share this,
+      Giving some stars & Following me will be appreciated.
+     
+
 
 ###### © 2021 JOHN KENER
 
