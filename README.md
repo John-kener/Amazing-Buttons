@@ -37,7 +37,7 @@
    
 ```pkg install python -y ```
         
-```pip intall tabulate -y ```
+```pip install tabulate -y ```
 
 ```git clone https://github.com/John-kener/Amazing-Buttons```
         
@@ -67,10 +67,3 @@
 
 
 ###### © 2021 JOHN KENER
-
-
-<hr />
-
-
-
-
